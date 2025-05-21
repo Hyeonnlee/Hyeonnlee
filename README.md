@@ -3,9 +3,8 @@
 </div>
 <div align= "center">
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/See-No-Evil%20Monkey.png" alt="See-No-Evil Monkey" width="50" height="50"/>
-    <div style="font-size: 8px; text-align: center; color: #c9d1d9;"> 🏫 Seoul National University of Science and Technology, Mechanical Engineering, BS </div> 
 </div>
-<div align= "center">
+<div align= "left">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: 0 auto; text-align: center;" align= "center"> 
         <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white">
