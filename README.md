@@ -5,10 +5,10 @@
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/See-No-Evil%20Monkey.png" alt="See-No-Evil Monkey" width="50" height="50"/>
 </div>
 
-<div align= "center">
+<div align="center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Hyeonhee Lee </h2> <br> 
-    <h3> 🌏 Seoul, South Korea </h3>
-    <h3> 🏫 Seoul National University of Science and Technology, Mechanical Engineering, BS </h3>
+    <p>🌏 Seoul, South Korea</p>
+    <p>🏫 Seoul National University of Science and Technology, Mechanical Engineering, BS</p>
 </div>
 
 <div align= "left">
