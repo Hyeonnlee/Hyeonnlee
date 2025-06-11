@@ -7,7 +7,7 @@
 
 <div align= "center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Hyeonhee Lee </h2> <br> 
-    🌏 Seoul, South Korea
+    🌏 Seoul, South Korea\n
     🏫 Seoul National University of Science and Technology, Mechanical Engineering, BS
 </div>
 
