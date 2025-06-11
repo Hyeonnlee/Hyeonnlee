@@ -7,8 +7,8 @@
 
 <div align="left">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">Hyeonhee Lee</h2>
-    <p style="margin: 4px 0; text-align: left;">🌏 Seoul, South Korea</p>
-    <p style="margin: 4px 0; text-align: left;">🏫 Seoul National University of Science and Technology, Mechanical Engineering, BS</p>
+    <p style="margin: 1px 0; text-align: left;">🌏 Seoul, South Korea</p>
+    <p style="margin: 1px 0; text-align: left;">🏫 Seoul National University of Science and Technology, Mechanical Engineering, BS</p>
 </div>
 
 <div align= "left">
