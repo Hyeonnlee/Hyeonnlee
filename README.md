@@ -27,6 +27,21 @@
             <br>Center for Healthcare Robotics, Student Intern
         </li>
     </ul>
+    <h3 style="margin-top: 24px; color: #24292f; font-weight: 700;">Projects</h3>
+    <pr>
+        <li>Non-planar 3D Printing Implementation Using 6-DoF Robot Arm 
+            <br>(2023.06 ~ 2023.11)</li>
+        <li>Unmanned Aerial Vehicle(UAV) Postion Estimation and Shape Inspection System Using Stereo Vision 
+            <br>(2023.02 ~ 2023.11)</li>
+        <li>Production of Synthetic Data Using Neural Style Transfer 
+            <br>(2022.06 ~ 2023.02)</li>
+        <li>Development of Operation Room Navigation Software Using Object Segmentation 
+            <br>(2022.02 ~ 2023.02)</li>
+    </pr>
+    <h3 style="margin-top: 24px; color: #24292f; font-weight: 700;">Contact</h3>
+    <pr>
+        📧 Email: iggpieei@gmail.com
+    </pr>
 </div>
 
 
