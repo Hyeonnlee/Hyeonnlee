@@ -5,12 +5,30 @@
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/See-No-Evil%20Monkey.png" alt="See-No-Evil Monkey" width="50" height="50"/>
 </div>
 
-<div align="left">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">Hyeonhee Lee</h2>
-    <p>Seoul, South Korea</p>
-    <p>Seoul National University of Science and Technology, Mechanical Engineering, BS</p>
+<div>
+    <h2 style="border-bottom: 1px solid #d0d7de; color: #24292f;">Hyeonhee Lee</h2> 
+    <p>🌏 Seoul, South Korea<br>
+        🏫 Seoul National University of Science and Technology, Mechanical Engineering, BS
+    </p>
+    <p style="margin: 0; line-height: 1.6;"> 
+        During my internship, I was fortunate to meet many generous individuals who freely shared their techniques and know-how. Those experiences left a lasting impression on me, and they inspired a desire to give back in the same way. It may sound simple or even cliché, but I genuinely hope to conduct research that benefits society and helps others—my way of paying forward the kindness I've received.
+    </p>
+    <h3 style="margin-top: 24px; color: #24292f; font-weight: 700;">Experiences</h3>
+    <ul style="margin-top: 8px; padding-left: 20px; color: #24292f;">
+        <li>SK AI Leader Academy, SKALA (2025.02 ~ 2025.07)
+        </li>
+        <li>Kukdong Mechanics (2024.02 ~ 2024.08)
+            <br>Student Intern
+        </li>
+        <li>Korea Research Institute of Ships & Ocean Engineering, KRISO (2024.01 ~ 2024.02)
+            <br>Maritime Public Digital Research Center, Student Intern
+        </li>
+        <li>Korean Institute of Science and Technology, KIST (2022.02 ~ 2023.02)
+            <br>Center for Healthcare Robotics, Student Intern
+        </li>
+    </ul>
 </div>
-</div>
+
 
 <div align= "left">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
