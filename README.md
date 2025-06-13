@@ -24,7 +24,7 @@
             <br>Maritime Public Digital Research Center, Student Intern
         </li>
         <li>Korean Institute of Science and Technology, KIST (2022.02 ~ 2023.02)
-            <br>Center for Healthcare Robotics, Student Intern
+            <br>AI Robot Reasearch, Student Intern
         </li>
     </ul>
     <h3 style="margin-top: 24px; color: #24292f; font-weight: 700;">Projects</h3>
